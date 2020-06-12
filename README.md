@@ -25,7 +25,7 @@ The CEA has three levels of participant structure:
 
 `Working Groups`: Collections of members tackling specific areas of interest, such as Ceramic governance or identity.
 
-`Stewards`: CEA members in charge of running CEA meetings (not working group meetings) and ensuring overall integrity of process.
+`Stewards`: Members that run run CEA meetings (not working group meetings) and ensure overall integrity of process.
 
 ## Meetings
 
@@ -40,7 +40,7 @@ The entire CEA gathers every two weeks for a meeting (attendance is optional). I
 
 ### Working Group Meetings
 
-CEA members self-organize into topic-based initiatives, called working groups. Individual working groups decide their own meeting schedule, and add those to the CEA calendar. Typically, working groups meet every two weeks so they have something to share out at the next bi-weekly CEA meeting. Notes from working group meetings are helpful to keep the rest of the CEA aligned. Use the CEA [meetings notes template](templates/meeting-notes-template.md) to take good meeting notes.
+CEA members self-organize into topic-based initiatives, called working groups. Individual working groups create their own charter, decide their own meeting schedule, and get their own designated channel in the Ceramic discord server. Typically, working groups meet every two weeks so they have something to share out at the next bi-weekly CEA meeting. Notes from working group meetings are helpful to keep the rest of the CEA aligned. Use the CEA [meetings notes template](templates/meeting-notes-template.md) to take good meeting notes.
 
 ## Working Groups
 
@@ -62,11 +62,11 @@ Nothing closed yet.
 
 ### How to form a new working group
 
-1. [Join the CEA](#join-the-cea)
-2. Create a [charter](templates/charter-template.md) for your working group
+1. [Join the CEA](#join-the-cea).
+2. Create a [charter](templates/charter-template.md) for your working group.
 3. Submit a Pull Request to the CEA repository adding your working group and charter. (See [here](working-groups) for examples.)
-4. Propose your working group at the next CEA meeting.
-5. Set a meeting schedule and recruit participants.
+4. Propose your working group at the next CEA meeting. If approved, your PR will be merged and you will get a designated channel in the Ceramic discord.
+5. Set a meeting schedule, add it to the CEA calendar, and recruit participants.
 
 ## Members
 
