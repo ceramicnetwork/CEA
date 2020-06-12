@@ -13,9 +13,9 @@
 
 ## Purpose
 
-The CEA ***is*** a grassroots network of Ceramic collaborators. It was created as a way for community members to collaboratively discuss important topics related to Ceramic (such as governance, standards, use cases) in a self-organized way. To join, [follow these steps](#join-the-cea).
+The CEA ***IS*** a grassroots network of Ceramic collaborators. It was created as a way for community members to collaboratively discuss important topics related to Ceramic (such as governance, standards, use cases) in a self-organized way. To join, [follow these steps](#join-the-cea).
 
-The CEA ***is not*** a replacement for [Ceramic Core Calls]() (Core Community Calls and Core Devs Calls), where the broader community generally convenes to learn more about Ceramic and discuss network upgrades. ([Click here]() to add Ceramic Core Calls to your calendar.) Rather, the CEA serves as a focused vehicle for interested parties to zoom in on important issues, organize into topic-based working groups, and share outcomes amongst the group.
+The CEA ***IS NOT*** a replacement for [Ceramic Core Calls]() (Core Community Calls and Core Devs Calls) where the broader community generally convenes to learn more about Ceramic and discuss network upgrades ([click here]() to add Ceramic Core Calls to your calendar), nor is it a replacement for [CIPs](http://github.com/ceramicnetwork/cip) where the community formally proposes standards or improvements.  Rather, the CEA serves as a focused vehicle for interested parties to zoom in on important issues, organize into topic-based working groups, and share outcomes amongst the group. A working group will often produce one or more CIPs.
 
 ## Structure
 
