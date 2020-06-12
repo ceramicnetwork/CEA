@@ -19,13 +19,13 @@ The CEA ***is not*** a replacement for [Ceramic Core Calls]() (Core Community Ca
 
 ## Structure
 
-The CEA has three levels of organiztional structure:
+The CEA has three levels of participant structure:
 
 `Members`: All participants.
 
 `Working Groups`: Collections of members tackling specific areas of interest, such as Ceramic governance or identity.
 
-`Stewards`: CEA members in charge of running CEA meetings and ensuring integrity of process.
+`Stewards`: CEA members in charge of running CEA meetings (not working group meetings) and ensuring overall integrity of process.
 
 ## Meetings
 
@@ -40,7 +40,7 @@ The entire CEA gathers every two weeks for a meeting (attendance is optional). I
 
 ### Working Group Meetings
 
-CEA members self-organize into topic-based initiatives, called working groups. Individual working groups decide their own meeting schedule. Typically, working groups meet every two weeks so they have something to share out at the next bi-weekly CEA meeting. Notes from working group meetings are helpful to keep the rest of the CEA aligned.
+CEA members self-organize into topic-based initiatives, called working groups. Individual working groups decide their own meeting schedule, and add those to the CEA calendar. Typically, working groups meet every two weeks so they have something to share out at the next bi-weekly CEA meeting. Notes from working group meetings are helpful to keep the rest of the CEA aligned. Use the CEA [meetings notes template](templates/meeting-notes-template.md) to take good meeting notes.
 
 ## Working Groups
 
@@ -59,6 +59,14 @@ CEA members self-organize into topic-based initiatives, called working groups. I
 ### Closed
 
 Nothing closed yet.
+
+### How to form a new working group
+
+1. [Join the CEA](#join-the-cea)
+2. Create a [charter](templates/charter-template.md) for your working group
+3. Submit a Pull Request to the CEA repository adding your working group and charter. (See [here](working-groups) for examples.)
+4. Propose your working group at the next CEA meeting.
+5. Set a meeting schedule and recruit participants.
 
 ## Members
 
@@ -95,7 +103,7 @@ Below, find a list of all members and their participation in active working grou
 | [MetaCartel](http://metacartel.org)       | ✅                 | ✅                | ✅                | ✅                 |  ✅ |
 | [SimpleID](http://simpleid.io)       | ✅                 | ✅                | ✅                | ✅                 |  ✅ |
 
-## Stewards
+### Stewards
 
 - Michael Sena ([@michaelsena](http://github.com/michaelsena))
 - Joel Torstensson ([@oed](http://github.com/oed))
