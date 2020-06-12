@@ -97,9 +97,9 @@ Below, find a list of all members and their participation in active working grou
 
 ## Stewards
 
-- Michael Sena (@michaelsena)
-- Joel Torstensson (@oed)
-- Danny Zuckerman (@dazuck)
+- Michael Sena ([@michaelsena](http://github.com/michaelsena))
+- Joel Torstensson ([@oed](http://github.com/oed))
+- Danny Zuckerman ([@dazuck](http://github.com/dazuck))
 
 ## Join the CEA
 
