@@ -21,11 +21,11 @@ The CEA ***is not*** a replacement for [Ceramic Core Calls]() (Core Community Ca
 
 The CEA has three levels of participant structure:
 
-`Members`: All participants.
-
-`Working Groups`: Collections of members tackling specific areas of interest, such as Ceramic governance or identity.
-
-`Stewards`: Members that run run CEA meetings (not working group meetings) and ensure overall integrity of process.
+| Role                            | Description            |
+| :-------------                  | :-----------              |
+| Members            | All participants. Expected to participate in working groups. |
+| Working Groups            | Collections of members tackling specific areas of interest, such as Ceramic governance or identity. |
+| Stewards                    | Members that run run CEA meetings (not working group meetings) and ensure overall integrity of process. |
 
 ## Meetings
 
@@ -44,17 +44,11 @@ CEA members self-organize into topic-based initiatives, called working groups. I
 
 ## Working Groups
 
-### Active
-
-`Ceramic Governance`: See [charter](working-groups/ceramic-governance/charter.md).
-
-`Identity`: See [charter](working-groups/identity/charter.md).
-
-`Multi-Chain`: See [charter](working-groups/multichain/charter.md).
-
-### Closed
-
-Nothing closed yet.
+| Working Group                   | Status                    | Description |
+| :-------------                  | :-----------              | :---------- |
+| `Ceramic Governance`            | Active                    | See [charter](working-groups/ceramic-governance/charter.md). |
+| `Identity          `            | Active                    | See [charter](working-groups/identity/charter.md). |
+| `Multichain`                    | Active                    | See [charter](working-groups/multichain/charter.md). |
 
 ### How to form a new working group
 
