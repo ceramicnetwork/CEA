@@ -65,8 +65,8 @@ Nothing closed yet.
 1. [Join the CEA](#join-the-cea).
 2. Create a [charter](templates/charter-template.md) for your working group.
 3. Submit a Pull Request to the CEA repository adding your working group and charter. (See [here](working-groups) for examples.)
-4. Propose your working group at the next CEA meeting. If approved, your PR will be merged and you will get a designated channel in the Ceramic discord.
-5. Set a meeting schedule, add it to the CEA calendar, and recruit participants.
+4. Propose your working group at the next CEA meeting. If approved, your PR will be merged, you will get a designated channel in the Ceramic discord, and your working group meeting schedule (specified in the charter) will be added to the CEA calendar.
+5. Recruit participants for your working group.
 
 ## Members
 
