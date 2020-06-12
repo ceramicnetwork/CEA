@@ -70,38 +70,45 @@ Nothing closed yet.
 
 ## Members
 
-Below, find a list of all members and their participation in active working groups
+Below, find a list of all members and their organizations.
 
-| Members                           | Ceramic Governance        | Identity          | Interoperable Data      | Multi-Chain       | Services |
-| :-------------                    | :-----------      | :-----------      | :-----------      | :-----------      | :--- |
-| [3Box](http://3box.io)            | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [Textile](http://textile.io)      | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [IPFS](http://ipfs.io)            | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| Sia           | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| Storj           | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| Dappkit           | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| OrbitDB           | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [Aragon](http://aragon.org)            | ✅                 | ✅                | ✅                | ✅                 | ✅|
-| [Gitcoin](http://gitcoin.com)     | ✅                 | ✅                | ✅                | ✅                 | ✅ |    
-| [MetaMask](http://metamask.io)    | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [Magic](http://magic.link)        | ✅                 | ✅                | ✅                | ✅                 |  ✅ |   
-| Temporal/RTrade  | ✅              | ✅                | ✅                | ✅                 |  ✅ |   
-| [Infura](http://infura.io)        | ✅                 | ✅                | ✅                | ✅                 | ✅ |   
-| [Anytype](http://anytype.io)      | ✅                 | ✅                | ✅                | ✅                 | ✅ |    
-| [Colony](http://colony.io)        | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [DuckDuckGo](http://duck.com)     | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [Flow](http://withflow.com)       | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [Arweave](http://arweave.org)     | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [The Graph](http://thegraph.com)  | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [RabbitHole](http://rabbithole.io) | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [BrightID](http://brightid.org)     | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [Passbase](http://passbase.io)     | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [Akasha](http://akasha.org)       | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [Lunie](http://lunie.io)       | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [Rainbow](http://rainbow.org)       | ✅                 | ✅                | ✅                | ✅                 | ✅ |    
-| [Alchemy](http://alchemy.io)       | ✅  | ✅  | ✅  | ✅  | ✅  |
-| [MetaCartel](http://metacartel.org)       | ✅                 | ✅                | ✅                | ✅                 |  ✅ |
-| [SimpleID](http://simpleid.io)       | ✅                 | ✅                | ✅                | ✅                 |  ✅ |
+| Organizations                           | Members        |
+| :-------------                    | :-----------              |
+| [3Box](http://3box.io)            | Michael Sena ([@michaelsena](http://github.com/michaelsena)), Joel Thorstensson ([@oed](http://github.com/oed)), Daniel Zuckerman ([@dazuck](http://github.com/dazuck)), Janko Simonovic                      |
+| [Textile](http://textile.io)      | Carson Farmer, Andrew Hill                        |
+| [IPFS](http://ipfs.io)            | Molly Mackinlay, Juan Benet                       |
+| Sia                               | Manasi                        |
+| Storj                             |                         |
+| Dappkit                           | Vasa                      |
+| OrbitDB                           | Mark                      |
+| [Aragon](http://aragon.org)       | Burrrata                  |
+| [Gitcoin](http://gitcoin.com)     | Kevin Owocki ([@owocki](http://github.com/owocki))             |
+| [MetaMask](http://metamask.io)    | Erik Marks ([@remkarks](http://github.com/rekmarks)), Dan Finlay                        |
+| [Magic](http://magic.link)        | Sean Li                        |
+| Temporal/RTrade                   | Derrick Foote,                         |
+| [Infura](http://infura.io)        | E.G. Galano,                         |
+| [Anytype](http://anytype.io)      |                         |
+| [Colony](http://colony.io)        | Auryn Macmillan                        |
+| [DuckDuckGo](http://duck.com)     | Tim                        |
+| [Flow](http://withflow.com)       | Dieter                        |
+| [Arweave](http://arweave.org)     | Jesper, Aidan                        |
+| [The Graph](http://thegraph.com)  | Yaniv Tal, Brandon Ramirez                        |
+| [RabbitHole](http://rabbithole.io) | Brian Flynn                       |
+| [BrightID](http://brightid.org)     | Adam Stallard                      |
+| [Passbase](http://passbase.io)     |                       |
+| [Akasha](http://akasha.org)       |                         |
+| [Lunie](http://lunie.io)       | James Moreau                           |
+| [Rainbow](http://rainbow.org)       | Mike DeMarais, Bruno                      |
+| [Alchemy](http://alchemy.io)       |                        |
+| [MetaCartel](http://metacartel.org)       | Peter Pan                |
+| [SimpleID](http://simpleid.io)       | Justin Hunter                     |
+| [Connext]()       | Arjun Bhuptani                     |
+| [Consensys]()       |                      |
+| [Fleek]()       | Brett, Harrison Hines                     |
+| [Abridged]()       | James Duncan                     |
+| [WalletConnect]()       | Pedro Gomes ([@pedrouid](http://github.com/pedrouid))                     |
+| [Gnosis]()       | Stefan                     |
+| [Torus]()       | Zhen                     |
 
 ### Stewards
 
