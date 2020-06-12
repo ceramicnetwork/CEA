@@ -1,4 +1,4 @@
-![CEA Banner Image](assets/cea/cea-github-readme.png)
+![CEA Banner Image](assets/cea-github-readme.png)
 
 # Ceramic Ecosystem Alliance (CEA)
 
