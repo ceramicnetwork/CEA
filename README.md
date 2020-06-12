@@ -44,6 +44,8 @@ CEA members self-organize into topic-based initiatives, called working groups. I
 
 ## Working Groups
 
+### List of working groups
+
 | Working Group                   | Status                    | Description |
 | :-------------                  | :-----------              | :---------- |
 | `Ceramic Governance`            | Active                    | See [charter](working-groups/ceramic-governance/charter.md). |
