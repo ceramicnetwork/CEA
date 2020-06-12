@@ -35,7 +35,6 @@ The entire CEA gathers every two weeks for a meeting (attendance is optional). I
 
 - Share progress from existing working groups
 - Propose the creation of new working groups
-- Evaluate new member applicants
 
 > Since CEA meetings are primarily built around sharing progress from working groups, at least 1 member from each active working group is expected to attend.
 
@@ -74,7 +73,7 @@ Below, find a list of all members and their participation in active working grou
 | Storj           | ✅                 | ✅                | ✅                | ✅                 | ✅ |
 | Dappkit           | ✅                 | ✅                | ✅                | ✅                 | ✅ |
 | OrbitDB           | ✅                 | ✅                | ✅                | ✅                 | ✅ |
-| [Aragon](http://aragon.org)            | ✅                 | ✅                | ✅                | ✅                 | ✅ |    
+| [Aragon](http://aragon.org)            | ✅                 | ✅                | ✅                | ✅                 | ✅|
 | [Gitcoin](http://gitcoin.com)     | ✅                 | ✅                | ✅                | ✅                 | ✅ |    
 | [MetaMask](http://metamask.io)    | ✅                 | ✅                | ✅                | ✅                 | ✅ |
 | [Magic](http://magic.link)        | ✅                 | ✅                | ✅                | ✅                 |  ✅ |   
@@ -108,4 +107,4 @@ Below, find a list of all members and their participation in active working grou
 
 2. Fill out [this form](https://danny765911.typeform.com/to/AAFtVN). 
 
-Once a steward has confirmed you have completed the previous two steps, they will put your membership application up for vote at the next CEA meeting. If a majority vote is reached (by members in attendance), a steward will merge your PR and send you a welcome email containing your invitation to the CEA Call Calendar and Discord.
+Once a steward has confirmed you have completed the previous two steps, they will merge your PR and send you a welcome email containing your invitations to the **CEA Call Calendar** and **Discord**.
