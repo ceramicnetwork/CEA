@@ -23,6 +23,8 @@ We will know that this working group has been successful if when
 
 - **Discussions**: The group will use the [#ceramic-governance-wg](https://discord.gg/s5TfHct) Discord channel on the Ceramic Discord server for discussions and chat. This channel is available to anyone in the CEA.
 
+- **Proposals**: The group will produce official Ceramic Governance proposals in the form of [CIPs](http://github.com/ceramicnetwork/cip).
+
 ## Sponsors
 
 - Michael Sena ([@michaelsena](http://github.com/michaelsena))
