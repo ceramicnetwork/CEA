@@ -21,7 +21,7 @@ The goals of the Ceramic Governance V1 Working Group are to establish open forum
 **Open forums for community engagement**
 
 - [Community Discord](https://discord.gg/6VRZpGP) (See [CIP-X]())
-- [Community Calls]() (See [CIP-X]())
+- [Community Calls](https://calendar.google.com/calendar/b/3?cid=Y2VyYW1pYy5uZXR3b3JrX3JsNzFrcXZtNzE4ZGY4aWk2cDZzanNmbDdjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) (See [CIP-X]())
 
 **Open process for creating self-organizing working groups**
 
@@ -33,7 +33,7 @@ The goals of the Ceramic Governance V1 Working Group are to establish open forum
 
 **Open process for deciding what features get included in future network upgrades**
 
-- [Core Devs Calls]() (See [CIP-X]())
+- [Core Devs Calls](https://calendar.google.com/calendar/b/3?cid=Y2VyYW1pYy5uZXR3b3JrX3JsNzFrcXZtNzE4ZGY4aWk2cDZzanNmbDdjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) (See [CIP-X]())
 
 
 ## Success
