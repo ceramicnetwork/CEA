@@ -1,19 +1,45 @@
 # Ceramic Governance WG Charter
 
-## Simple Summary
 
-The Ceramic Governance Working Group will
+## Purpose
+
+The Ceramic Governance Working Group exists to define the initial set of processes that enable Ceramic to operate as a thriving, fully open-source, collaborative community.
+
 
 ## Goals
 
-The goals of the Ceramic Governance Working Group are:
+The goals of the Ceramic Governance Working Group are to establish:
 
-- to
-- to
+- open forums for community engagement
+- an open process for creating self-organizing working groups
+- an open process for proposing protocol improvements or implementation standards
+- an open forum for deciding what features get included in future network upgrades
 
-## Success Criteria
 
-We will know that this working group has been successful if when
+## Deliverables
+
+**Open forums for community engagement**
+
+- [Community Discord]() ([CIP-X]())
+- [Community Calls]() ([CIP-X]())
+
+**Open process for self-organizing working groups**
+
+- [Ceramic Ecosystem Alliance (CEA)](http://github.com/ceramicnetwork/CEA) ([CIP-X]())
+
+**Open process for proposing protocol improvements/implementation standards**
+
+- [Ceramic Improvement Proposals (CIPs)]() ([CIP-X]())
+
+**Open forum for deciding what features get included in future network upgrades**
+
+- [Core Devs Calls]() ([CIP-X]())
+
+
+## Success
+
+We will know that this working group has been successful when the above deliverables have been met, and when the process has been derisked/validated through testing.
+
 
 ## Organization
 
@@ -24,6 +50,7 @@ We will know that this working group has been successful if when
 - **Discussions**: The group will use the [#ceramic-governance-wg](https://discord.gg/s5TfHct) Discord channel on the Ceramic Discord server for discussions and chat. This channel is available to anyone in the CEA.
 
 - **Proposals**: The group will produce official Ceramic Governance proposals in the form of [CIPs](http://github.com/ceramicnetwork/cip).
+
 
 ## Sponsors
 
