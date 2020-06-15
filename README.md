@@ -103,6 +103,8 @@ Below, find a list of all members and their organizations.
 | [Torus](https://tor.us/) | Zhen |
 | [OST](https://ost.com/) | Benjamin Bollen |
 | [Chainlink](https://ost.com/) | Andrew Thurman |
+| [IXO](https://ixo.world) | Shaun Conway |
+| [DAOstack](https://daostack.io/) | Ezra Weller |
 
 ### Stewards
 
