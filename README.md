@@ -15,7 +15,7 @@
 
 The CEA ***IS*** a grassroots network of Ceramic collaborators. It was created as a way for community members to collaboratively discuss important topics related to Ceramic (such as governance, standards, use cases) in a self-organized way. To join, [follow these steps](#join-the-cea).
 
-The CEA ***IS NOT*** a replacement for [Ceramic Core Calls]() (Core Community Calls and Core Devs Calls) where the broader community generally convenes to learn more about Ceramic and discuss network upgrades ([click here]() to add Ceramic Core Calls to your calendar), nor is it a replacement for [CIPs](http://github.com/ceramicnetwork/cip) where the community formally proposes standards or improvements.  Rather, the CEA serves as a focused vehicle for interested parties to zoom in on important issues, organize into topic-based working groups, and share outcomes amongst the group. A working group will often produce one or more CIPs.
+The CEA ***IS NOT*** a replacement for [Ceramic Core Calls](https://calendar.google.com/calendar/b/3?cid=Y2VyYW1pYy5uZXR3b3JrX3JsNzFrcXZtNzE4ZGY4aWk2cDZzanNmbDdjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) (Core Community Calls and Core Devs Calls) where the broader community generally convenes to learn more about Ceramic and discuss network upgrades ([click here](https://calendar.google.com/calendar/b/3?cid=Y2VyYW1pYy5uZXR3b3JrX3JsNzFrcXZtNzE4ZGY4aWk2cDZzanNmbDdjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) to add Ceramic Core Calls to your calendar), nor is it a replacement for [CIPs](http://github.com/ceramicnetwork/cip) where the community formally proposes standards or improvements.  Rather, the CEA serves as a focused vehicle for interested parties to zoom in on important issues, organize into topic-based working groups, and share outcomes amongst the group. A working group will often produce one or more CIPs.
 
 ## Structure
 
@@ -64,43 +64,45 @@ CEA members self-organize into topic-based initiatives, called working groups. I
 
 Below, find a list of all members and their organizations.
 
-| Organizations                           | Members        |
-| :-------------                    | :-----------              |
-| [3Box](http://3box.io)            | Michael Sena ([@michaelsena](http://github.com/michaelsena)), Joel Thorstensson ([@oed](http://github.com/oed)), Daniel Zuckerman ([@dazuck](http://github.com/dazuck)), Janko Simonovic                      |
-| [Textile](http://textile.io)      | Carson Farmer, Andrew Hill                        |
-| [IPFS](http://ipfs.io)            | Molly Mackinlay, Juan Benet                       |
-| Sia                               | Manasi                        |
-| Storj                             |                         |
-| Dappkit                           | Vasa                      |
-| OrbitDB                           | Mark                      |
-| [Aragon](http://aragon.org)       | Burrrata                  |
-| [Gitcoin](http://gitcoin.com)     | Kevin Owocki ([@owocki](http://github.com/owocki))             |
-| [MetaMask](http://metamask.io)    | Erik Marks ([@remkarks](http://github.com/rekmarks)), Dan Finlay                        |
-| [Magic](http://magic.link)        | Sean Li                        |
-| Temporal/RTrade                   | Derrick Foote,                         |
-| [Infura](http://infura.io)        | E.G. Galano,                         |
-| [Anytype](http://anytype.io)      |                         |
-| [Colony](http://colony.io)        | Auryn Macmillan                        |
-| [DuckDuckGo](http://duck.com)     | Tim                        |
-| [Flow](http://withflow.com)       | Dieter                        |
-| [Arweave](http://arweave.org)     | Jesper, Aidan                        |
-| [The Graph](http://thegraph.com)  | Yaniv Tal, Brandon Ramirez                        |
-| [RabbitHole](http://rabbithole.io) | Brian Flynn                       |
-| [BrightID](http://brightid.org)     | Adam Stallard                      |
-| [Passbase](http://passbase.io)     |                       |
-| [Akasha](http://akasha.org)       |                         |
-| [Lunie](http://lunie.io)       | James Moreau                           |
-| [Rainbow](http://rainbow.org)       | Mike DeMarais, Bruno                      |
-| [Alchemy](http://alchemy.io)       |                        |
-| [MetaCartel](http://metacartel.org)       | Peter Pan                |
-| [SimpleID](http://simpleid.io)       | Justin Hunter                     |
-| [Connext]()       | Arjun Bhuptani                     |
-| [Consensys]()       |                      |
-| [Fleek]()       | Brett, Harrison Hines                     |
-| [Abridged]()       | James Duncan                     |
-| [WalletConnect]()       | Pedro Gomes ([@pedrouid](http://github.com/pedrouid))                     |
-| [Gnosis]()       | Stefan                     |
-| [Torus]()       | Zhen                     |
+| Organizations                     | Members        |
+| :-------------                    | :-----------   |
+| [3Box](http://3box.io)            | Michael Sena ([@michaelsena](http://github.com/michaelsena)), Joel Thorstensson ([@oed](http://github.com/oed)), Daniel Zuckerman ([@dazuck](http://github.com/dazuck)), Janko Simonovic |
+| [Textile](http://textile.io)      | Carson Farmer, Andrew Hill |
+| [IPFS](http://ipfs.io)            | Molly Mackinlay, Juan Benet |
+| [Sia](https://sia.tech/)          | Manasi Vora |
+| [Storj](https://storj.io/)        | Kevin Leffew |
+| [Dappkit](https://www.dappkit.io/) | Vasa |
+| [OrbitDB](https://orbitdb.org/)   | Mark |
+| [Aragon](http://aragon.org)       | Burrrata, Aaron Foster |
+| [Gitcoin](http://gitcoin.com)     | Kevin Owocki ([@owocki](http://github.com/owocki)) |
+| [MetaMask](http://metamask.io)    | Erik Marks ([@remkarks](http://github.com/rekmarks)), Dan Finlay |
+| [Magic](http://magic.link)        | Sean Li |
+| [Temporal/RTrade](https://temporal.cloud/) | Derrick Foote |
+| [Infura](http://infura.io)        | E.G. Galano |
+| [Anytype](http://anytype.io)      |  |
+| [Colony](http://colony.io)        | Auryn Macmillan |
+| [DuckDuckGo](http://duck.com)     | Tim |
+| [Flow](https://www.onflow.org/)   | Dieter |
+| [Arweave](http://arweave.org)     | Jesper, Aidan |
+| [The Graph](http://thegraph.com)  | Yaniv Tal, Brandon Ramirez |
+| [RabbitHole](https://rabbithole.on.fleek.co/#/) | Brian Flynn |
+| [BrightID](http://brightid.org)   | Adam Stallard |
+| [Passbase](http://passbase.com)   | |
+| [Akasha](https://akasha.org/)     | |
+| [Lunie](https://lunie.io/)        | James Moreau |
+| [Rainbow](https://rainbow.me/)    | Mike Demarais, Bruno |
+| [Alchemy](http://alchemyapi.io)   | Nikhil Chari |
+| [MetaCartel](https://www.metacartel.org/) | Peter Pan |
+| [SimpleID](https://www.simpleid.xyz/) | Justin Hunter |
+| [Connext](https://connext.network/) | Arjun Bhuptani |
+| [Consensys](https://consensys.net/) | |
+| [Fleek](https://fleek.co/)        | Brett, Harrison Hines |
+| [Abridged](https://www.abridged.io/) | James Duncan, James Young |
+| [WalletConnect](https://walletconnect.org/) | Pedro Gomes ([@pedrouid](http://github.com/pedrouid)) |
+| [Gnosis](https://gnosis.io/) | Stefan |
+| [Torus](https://tor.us/) | Zhen |
+| [OST](https://ost.com/) | Benjamin Bollen |
+| [Chainlink](https://ost.com/) | Andrew Thurman |
 
 ### Stewards
 
