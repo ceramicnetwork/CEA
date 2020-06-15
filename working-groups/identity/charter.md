@@ -8,22 +8,28 @@ The Identity Working Group exists to define the initial set of standards that en
 
 The goals of the Identity Working Group are to:
 
-- create a widely-supported, DID-agnostic standard for decentralized identity
+- create a widely-supported, DID-agnostic standard for decentralized identity that can support:
+  - authentication from one or many different accounts
+  - verified links to external accounts and contracts
+  - a flexible profile system
+  - various kinds of public and private social graph information
+  - links to external sources of data
+  - links to external services that can perform actions on behalf of the identity
 - produce a library that implements the standard
 
 ## Deliverables
 
-
-
 **Create a widely supported DID-agnostic standard for decentralized identity**
 
-- an identity standard (IS) (CIP-N), consisting of
-  - an account model (CIP-N)
-  - a profile model (CIP-N)
+- an identity standard (IS) ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/3)), consisting of
+  - an account model ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/21))
+  - a keychain model ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/13))
+  - an account linking model ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/14))
+  - a profile model ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/12))
   - a connections model (CIP-N)
-  - a sources model (CIP-N)
-  - a services model (CIP-N)
-  - a claims model (CIP-N)
+  - a sources model ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/26))
+  - a services model ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/19))
+  - a claims model ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/16))
 
 **Produce a library that implements the standard**
 
