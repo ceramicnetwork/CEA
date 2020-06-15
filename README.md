@@ -13,9 +13,9 @@
 
 ## Purpose
 
-The CEA ***IS*** a grassroots network of Ceramic collaborators. It was created as a way for community members to collaboratively discuss important topics related to Ceramic (such as governance, standards, use cases) in a self-organized way. To join, [follow these steps](#join-the-cea).
+The CEA ***IS*** a grassroots network of Ceramic collaborators. It was created as a way for community members to self-organize into working groups to collaboratively discuss important topics related to Ceramic (such as governance, standards, use cases). To join, [follow these steps](#join-the-cea).
 
-The CEA ***IS NOT*** a replacement for [Ceramic Core Calls](https://calendar.google.com/calendar/b/3?cid=Y2VyYW1pYy5uZXR3b3JrX3JsNzFrcXZtNzE4ZGY4aWk2cDZzanNmbDdjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) (Core Community Calls and Core Devs Calls) where the broader community generally convenes to learn more about Ceramic and discuss network upgrades ([click here](https://calendar.google.com/calendar/b/3?cid=Y2VyYW1pYy5uZXR3b3JrX3JsNzFrcXZtNzE4ZGY4aWk2cDZzanNmbDdjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) to add Ceramic Core Calls to your calendar), nor is it a replacement for [CIPs](http://github.com/ceramicnetwork/cip) where the community formally proposes standards or improvements.  Rather, the CEA serves as a focused vehicle for interested parties to zoom in on important issues, organize into topic-based working groups, and share outcomes amongst the group. A working group will often produce one or more CIPs.
+The CEA ***IS NOT*** a replacement for [Ceramic Core Calls](https://calendar.google.com/calendar/b/3?cid=Y2VyYW1pYy5uZXR3b3JrX3JsNzFrcXZtNzE4ZGY4aWk2cDZzanNmbDdjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20), including Core Community Calls where the broader community convenes to learn more about Ceramic, and Core Devs Calls where Ceramic developers discuss network upgrades. The CEA also is not a replacement for [CIPs](http://github.com/ceramicnetwork/cip) the process by which the community formally proposes standards or improvements to Ceramic.  Rather, the CEA serves as a focused vehicle for interested parties to zoom in on important issues, organize into topic-based working groups, and share outcomes amongst the group. A working group will often produce one or more CIPs.
 
 ## Structure
 
