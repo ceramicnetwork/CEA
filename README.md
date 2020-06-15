@@ -2,7 +2,7 @@
 
 # Ceramic Ecosystem Alliance (CEA)
 
-> The CEA is a collection of working groups for important Ceramic-related topics. CEA WG groups often deliver CIPs.
+> The CEA is a collection of working groups for important Ceramic-related topics. CEA working groups often deliver CIPs.
 
 - [Purpose](#purpose)
 - [Structure](#structure)
