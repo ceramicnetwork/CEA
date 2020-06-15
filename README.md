@@ -2,7 +2,7 @@
 
 # Ceramic Ecosystem Alliance (CEA)
 
-> The CEA is a grassroots network of working groups comprised of projects and individuals that work to collaborate on standards and use cases for the Ceramic Network.
+> The CEA is a collection of working groups for important Ceramic-related topics. CEA WG groups often deliver CIPs.
 
 - [Purpose](#purpose)
 - [Structure](#structure)
