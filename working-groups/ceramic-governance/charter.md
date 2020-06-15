@@ -20,20 +20,20 @@ The goals of the Ceramic Governance V1 Working Group are to establish open forum
 
 **Open forums for community engagement**
 
-- [Community Discord](https://discord.gg/6VRZpGP) (See CIP-X)
-- [Community Calls](https://calendar.google.com/calendar/b/3?cid=Y2VyYW1pYy5uZXR3b3JrX3JsNzFrcXZtNzE4ZGY4aWk2cDZzanNmbDdjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) (See CIP-X)
+- [Community Discord](https://discord.gg/6VRZpGP) (See [CIP-N](https://github.com/ceramicnetwork/CIP/issues/39))
+- [Community Calls](https://calendar.google.com/calendar/b/3?cid=Y2VyYW1pYy5uZXR3b3JrX3JsNzFrcXZtNzE4ZGY4aWk2cDZzanNmbDdjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) (See CIP-N)
 
 **Open process for creating self-organizing working groups**
 
-- [Ceramic Ecosystem Alliance (CEA)](http://github.com/ceramicnetwork/CEA) (See CIP-X)
+- [Ceramic Ecosystem Alliance (CEA)](http://github.com/ceramicnetwork/CEA) (See [CIP-N](https://github.com/ceramicnetwork/CIP/issues/40))
 
 **Open process for proposing protocol improvements/implementation standards**
 
-- [Ceramic Improvement Proposals (CIPs)](http://github.com/ceramicnetwork/CIP) (See CIP-X)
+- [Ceramic Improvement Proposals (CIPs)](http://github.com/ceramicnetwork/CIP) (See CIP-N)
 
 **Open process for deciding what features get included in future network upgrades**
 
-- [Core Devs Calls](https://calendar.google.com/calendar/b/3?cid=Y2VyYW1pYy5uZXR3b3JrX3JsNzFrcXZtNzE4ZGY4aWk2cDZzanNmbDdjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) (See CIP-X)
+- [Core Devs Calls](https://calendar.google.com/calendar/b/3?cid=Y2VyYW1pYy5uZXR3b3JrX3JsNzFrcXZtNzE4ZGY4aWk2cDZzanNmbDdjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) (See CIP-N)
 
 
 ## Success
