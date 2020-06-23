@@ -49,7 +49,7 @@ CEA members self-organize into topic-based initiatives, called working groups. I
 | Working Group                   | Status                    | Description |
 | :-------------                  | :-----------              | :---------- |
 | `Ceramic Governance`            | Active                    | See [charter](working-groups/ceramic-governance/charter.md). |
-| `Identity          `            | Active                    | See [charter](working-groups/identity/charter.md). |
+| `Identity`                      | Active                    | See [charter](working-groups/identity/charter.md). |
 | `Multichain`                    | Active                    | See [charter](working-groups/multichain/charter.md). |
 
 ### How to form a new working group
