@@ -72,7 +72,7 @@ Below, find a list of all members and their organizations.
 | [Sia](https://sia.tech/)          | Manasi Vora |
 | [Storj](https://storj.io/)        | Kevin Leffew |
 | [Dappkit](https://www.dappkit.io/) | Vasa |
-| [OrbitDB](https://orbitdb.org/)   | Mark |
+| [OrbitDB](https://orbitdb.org/)   | Mark Henderson [@aphelionz](https://github.com/aphelionz) |
 | [Aragon](http://aragon.org)       | Burrrata, Aaron Foster |
 | [Gitcoin](http://gitcoin.com)     | Kevin Owocki ([@owocki](http://github.com/owocki)) |
 | [MetaMask](http://metamask.io)    | Erik Marks ([@remkarks](http://github.com/rekmarks)), Dan Finlay |
