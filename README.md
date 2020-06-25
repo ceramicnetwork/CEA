@@ -105,6 +105,7 @@ Below, find a list of all members and their organizations.
 | [Chainlink](https://ost.com/) | Andrew Thurman |
 | [IXO](https://ixo.world) | Shaun Conway |
 | [DAOstack](https://daostack.io/) | Ezra Weller |
+| [Liminal Village](https://liminalvillage.com) | Josh Fairhead |
 
 ### Stewards
 
