@@ -88,7 +88,7 @@ Below, find a list of all members and their organizations.
 | [RabbitHole](https://rabbithole.on.fleek.co/#/) | Brian Flynn |
 | [BrightID](http://brightid.org)   | Adam Stallard |
 | [Passbase](http://passbase.com)   | |
-| [Akasha](https://akasha.org/)     | |
+| [Akasha](https://akasha.org/)     | Philip Sheldrake |
 | [Lunie](https://lunie.io/)        | James Moreau |
 | [Rainbow](https://rainbow.me/)    | Mike Demarais, Bruno |
 | [Alchemy](http://alchemyapi.io)   | Nikhil Chari |
