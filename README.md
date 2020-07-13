@@ -106,6 +106,7 @@ Below, find a list of all members and their organizations.
 | [IXO](https://ixo.world) | Shaun Conway |
 | [DAOstack](https://daostack.io/) | Ezra Weller |
 | [Liminal Village](https://liminalvillage.com) | Josh Fairhead |
+| [Beem](http://www.watchbeem.com/) | Cyprien Grau |
 
 ### Stewards
 
