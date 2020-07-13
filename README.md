@@ -79,15 +79,13 @@ Below, find a list of all members and their organizations.
 | [Magic](http://magic.link)        | Sean Li |
 | [Temporal/RTrade](https://temporal.cloud/) | Derrick Foote |
 | [Infura](http://infura.io)        | E.G. Galano |
-| [Anytype](http://anytype.io)      |  |
 | [Colony](http://colony.io)        | Auryn Macmillan |
 | [DuckDuckGo](http://duck.com)     | Tim |
-| [Flow](https://www.onflow.org/)   | Dieter |
+| [Flow](https://www.onflow.org/)   | James |
 | [Arweave](http://arweave.org)     | Jesper, Aidan |
 | [The Graph](http://thegraph.com)  | Yaniv Tal, Brandon Ramirez |
 | [RabbitHole](https://rabbithole.on.fleek.co/#/) | Brian Flynn |
 | [BrightID](http://brightid.org)   | Adam Stallard |
-| [Passbase](http://passbase.com)   | |
 | [Akasha](https://akasha.org/)     | Philip Sheldrake |
 | [Lunie](https://lunie.io/)        | James Moreau |
 | [Rainbow](https://rainbow.me/)    | Mike Demarais, Bruno |
@@ -95,7 +93,7 @@ Below, find a list of all members and their organizations.
 | [MetaCartel](https://www.metacartel.org/) | Peter Pan |
 | [SimpleID](https://www.simpleid.xyz/) | Justin Hunter |
 | [Connext](https://connext.network/) | Arjun Bhuptani |
-| [Consensys](https://consensys.net/) | |
+| [Consensys](https://consensys.net/) | Thomas Rush, Mike Kriak
 | [Fleek](https://fleek.co/)        | Brett, Harrison Hines |
 | [Abridged](https://www.abridged.io/) | James Duncan, James Young |
 | [WalletConnect](https://walletconnect.org/) | Pedro Gomes ([@pedrouid](http://github.com/pedrouid)) |
