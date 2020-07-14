@@ -31,7 +31,7 @@ The CEA has three levels of participant structure:
 
 ### CEA Meetings
 
-The entire CEA gathers every two weeks for a meeting (attendance is optional). In this meeting, members:
+The entire CEA gathers every six weeks for a meeting (attendance is optional). In this meeting, members:
 
 - Share progress from existing working groups
 - Propose the creation of new working groups
