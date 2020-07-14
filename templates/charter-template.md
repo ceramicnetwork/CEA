@@ -9,10 +9,8 @@
 
 The goals of the _____ Working Group are to _____. This will be done through:
 
-- community engagement
-- creating self-organizing working groups
-- proposing protocol improvements or implementation standards
-- deciding what features get included in future network upgrades
+- 
+- 
 
 
 ## Deliverables
