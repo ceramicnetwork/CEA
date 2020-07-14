@@ -40,7 +40,7 @@ The entire CEA gathers every two weeks for a meeting (attendance is optional). I
 
 ### Working Group Meetings
 
-CEA members self-organize into topic-based initiatives, called working groups. Individual working groups create their own charter, decide their own meeting schedule, and get their own designated channel in the Ceramic discord server. Typically, working groups meet every two weeks so they have something to share out at the next bi-weekly CEA meeting. Notes from working group meetings are helpful to keep the rest of the CEA aligned. Use the CEA [meetings notes template](templates/meeting-notes-template.md) to take good meeting notes.
+CEA members self-organize into topic-based working groups. Individual working groups create their own charter, decide their own meeting schedule, and communicate in their own designated channel in the Ceramic discord server. Typically, working groups meet frequently enough to share out at the next CEA meeting (currently every 6 weeks). Use the CEA [meetings notes template](templates/meeting-notes-template.md) to take good meeting notes to keep the rest of the CEA aligned.
 
 ## Working Groups
 
