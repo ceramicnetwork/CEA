@@ -25,7 +25,7 @@ The CEA has three levels of participant structure:
 | :-------------                  | :-----------              |
 | Members            | All participants. Expected to participate in working groups. |
 | Working Groups            | Collections of members tackling specific areas of interest, such as Ceramic governance or identity. |
-| Stewards                    | Members that run run CEA meetings (not working group meetings) and ensure overall integrity of process. |
+| Stewards                    | Members that run CEA meetings (not working group meetings) and ensure overall integrity of process. |
 
 ## Meetings
 
