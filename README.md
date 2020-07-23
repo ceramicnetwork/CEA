@@ -69,7 +69,7 @@ Below, find a list of all members and their organizations.
 | [3Box](http://3box.io)            | Michael Sena ([@michaelsena](http://github.com/michaelsena)), Joel Thorstensson ([@oed](http://github.com/oed)), Daniel Zuckerman ([@dazuck](http://github.com/dazuck)), Janko Simonovic |
 | [Textile](http://textile.io)      | Carson Farmer, Andrew Hill |
 | [IPFS](http://ipfs.io)            | Molly Mackinlay, Juan Benet |
-| [Sia](https://sia.tech/)          | Manasi Vora |
+| [Sia](https://sia.tech/)          | Mansai Vora |
 | [Storj](https://storj.io/)        | Kevin Leffew |
 | [Dappkit](https://www.dappkit.io/) | Vasa |
 | [OrbitDB](https://orbitdb.org/)   | Mark Henderson [@aphelionz](https://github.com/aphelionz) |
@@ -80,7 +80,6 @@ Below, find a list of all members and their organizations.
 | [Temporal/RTrade](https://temporal.cloud/) | Derrick Foote |
 | [Infura](http://infura.io)        | E.G. Galano |
 | [Colony](http://colony.io)        | Auryn Macmillan |
-| [DuckDuckGo](http://duck.com)     | Tim |
 | [Flow](https://www.onflow.org/)   | James |
 | [Arweave](http://arweave.org)     | Jesper, Aidan |
 | [The Graph](http://thegraph.com)  | Yaniv Tal, Brandon Ramirez |
@@ -94,7 +93,7 @@ Below, find a list of all members and their organizations.
 | [SimpleID](https://www.simpleid.xyz/) | Justin Hunter |
 | [Connext](https://connext.network/) | Arjun Bhuptani |
 | [Consensys](https://consensys.net/) | Thomas Rush, Mike Kriak
-| [Fleek](https://fleek.co/)        | Brett, Harrison Hines |
+| [Fleek](https://fleek.co/)        | Brett, Harrison Hines, Janison |
 | [Abridged](https://www.abridged.io/) | James Duncan, James Young |
 | [WalletConnect](https://walletconnect.org/) | Pedro Gomes ([@pedrouid](http://github.com/pedrouid)) |
 | [Gnosis](https://gnosis.io/) | Stefan |
