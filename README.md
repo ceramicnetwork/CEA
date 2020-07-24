@@ -113,8 +113,8 @@ Below, find a list of all members and their organizations.
 
 ## Join the CEA
 
-1. Submit a Pull Request to this repository adding yourself to the members table above.
+1. Fill out [this 30 second form](https://danny765911.typeform.com/to/AAFtVN). 
 
-2. Fill out [this form](https://danny765911.typeform.com/to/AAFtVN). 
+2. Submit a Pull Request to this repository adding yourself to the members table above.
 
 Once a steward has confirmed you have completed the previous two steps, they will merge your PR and send you a welcome email containing your invitations to the **CEA Call Calendar** and **Discord**.
