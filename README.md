@@ -104,6 +104,7 @@ Below, find a list of all members and their organizations.
 | [DAOstack](https://daostack.io/) | Ezra Weller |
 | [Liminal Village](https://liminalvillage.com) | Josh Fairhead |
 | [Beem](http://www.watchbeem.com/) | Cyprien Grau |
+| [Userbase](https://userbase.com/) | Justin Berman |
 
 ### Stewards
 
