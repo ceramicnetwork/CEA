@@ -1,46 +1,55 @@
-# Identity WG Charter
+# Charter for Identity Working Group
 
 ## Purpose
 
-The Identity Working Group exists to define the initial set of standards that enable the creation of a flexible, modular, platform-agnostic identity standard on Ceramic.
+The Identity Working Group exists to define the initial set of Ceramic documents, standards and protocols that enable a flexible, modular, powerful, and platform-agnostic identity standard used by projects working with Ceramic. 
+
+The first phase (V1) of this working group will be focused on  use cases from technology providers, infrastructure services, and app builders to ensure an interoperable standard that meets unmet needs for these developers. 
 
 ## Goals
 
-The goals of the Identity Working Group are to:
+The goals of the Identity Working Group are to create, review, iterate, and formalize Ceramic community standards for:
 
-- create a widely-supported, DID-agnostic standard for decentralized identity that can support:
-  - authentication from one or many different accounts
-  - verified links to external accounts and contracts
-  - a flexible profile system
-  - various kinds of public and private social graph information
-  - links to external sources of data
-  - links to external services that can perform actions on behalf of the identity
-- produce a library that implements the standard
+- Authentication to a DID from one or many different accounts 
+- Public profiles
+- Verified links to external accounts, including both cryptographic and other accounts 
+- Various types of social graph information 
+- Indexing for external resources (e.g., databases) around a DID
+- Indexing for external services or agents of the identity
+
+Additionally, the working group will provide input to the core and community developers to produce a library that implements the standard.
 
 ## Deliverables
 
 **Create a widely supported DID-agnostic standard for decentralized identity**
 
-- an identity standard (IS) ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/3)), consisting of
-  - an account model ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/21))
-  - a keychain model ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/13))
-  - an account linking model ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/14))
-  - a profile model ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/12))
-  - a connections model (CIP-N)
-  - a sources model ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/26))
-  - a services model ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/19))
-  - a claims model ([CIP-N](https://github.com/ceramicnetwork/CIP/issues/16))
+The first focus of the Identity Working Group will be on the first two CIPs corresponding to the above goals: 
 
-**Produce a library that implements the standard**
+- [CIP 11 - IDX](https://github.com/ceramicnetwork/CIP/issues/3)
+- [CIP 12 - Root Index](https://github.com/ceramicnetwork/CIP/issues/21)
 
-- identity-standard-3id
+This will subsequently include discussion of and then focus on  the subdirectories of the root index, including: 
+- [Profiles Index (CIP-13)](https://github.com/ceramicnetwork/CIP/issues/12), a subdirectory for a DID's profiles
+- [Keychains Index (CIP-15)](https://github.com/ceramicnetwork/CIP/issues/13), a subdirectory for a DID's keychains
+- [Accounts Index (CIP-14)](https://github.com/ceramicnetwork/CIP/issues/14), a subdirectory for a DID's linked accounts (i.e. crypto & Oauth)
+- [Connections Index (CIP-18)](https://github.com/ceramicnetwork/CIP/issues/17), a subdirectory for a DID's social connections (i.e. follows)
+- [Collections Index (CIP-16)](https://github.com/ceramicnetwork/CIP/issues/26), a subdirectory for a DID's data collections (i.e. app data)
+- [Services Index (CIP-17)](https://github.com/ceramicnetwork/CIP/issues/19), a subdirectory for a DID's services (i.e. notifications or backup) 
+- [Settings Index (CIP-24)](https://github.com/ceramicnetwork/CIP/issues/57), a subdirectory for a DID's global settings (i.e. internationalization) 
+
+
+**Implentation of a library that implements the standard**
+
+- tentatively named IDp2p
 
 ## Success
 
-We will know that this working group has been successful when the above deliverables have been met, and when the process has been derisked/validated through testing.
+We will know that this working group has been successful when the above deliverables have been met, and when the process has been derisked/validated through testing. Additionally, members in the working group will be actively implementing these standards. 
 
 
 ## Organization
+
+- **Membership**: Anyone interested in providing constructive feedback, helping spec, or implementing the identity standards as an early user can participate in the working group if they have [joined the CEA](https://github.com/ceramicnetwork/CEA#join-the-cea)
 
 - **Meeting Schedule**: The group will meet via video once every two weeks for a 60 minute call. These calls can be found on the CEA calendar and are named "Ceramic Governance WG". Anyone in the CEA can view the calendar and attend the calls.
 
