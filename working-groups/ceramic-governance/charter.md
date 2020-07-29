@@ -14,7 +14,7 @@ The goals of the Ceramic Governance V1 Working Group are to establish open forum
 - creating self-organizing working groups
 - proposing protocol improvements or implementation standards
 - deciding what features get included in future network upgrades
-
+- progressively decentralizing governance of Ceramic Network 
 
 ## Deliverables
 
