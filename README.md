@@ -25,13 +25,13 @@ The CEA has three levels of participant structure:
 | :-------------                  | :-----------              |
 | Members            | All participants. Expected to participate in working groups. |
 | Working Groups            | Collections of members tackling specific areas of interest, such as Ceramic governance or identity. |
-| Stewards                    | Members that run run CEA meetings (not working group meetings) and ensure overall integrity of process. |
+| Stewards                    | Members that run CEA meetings (not working group meetings) and ensure overall integrity of process. |
 
 ## Meetings
 
 ### CEA Meetings
 
-The entire CEA gathers every two weeks for a meeting (attendance is optional). In this meeting, members:
+The entire CEA gathers every six weeks for a meeting (attendance is optional). In this meeting, members:
 
 - Share progress from existing working groups
 - Propose the creation of new working groups
@@ -40,7 +40,7 @@ The entire CEA gathers every two weeks for a meeting (attendance is optional). I
 
 ### Working Group Meetings
 
-CEA members self-organize into topic-based initiatives, called working groups. Individual working groups create their own charter, decide their own meeting schedule, and get their own designated channel in the Ceramic discord server. Typically, working groups meet every two weeks so they have something to share out at the next bi-weekly CEA meeting. Notes from working group meetings are helpful to keep the rest of the CEA aligned. Use the CEA [meetings notes template](templates/meeting-notes-template.md) to take good meeting notes.
+CEA members self-organize into topic-based working groups. Individual working groups create their own charter, decide their own meeting schedule, and communicate in their own designated channel in the Ceramic discord server. Typically, working groups meet frequently enough to share out at the next CEA meeting (currently every 6 weeks). Use the CEA [meetings notes template](templates/meeting-notes-template.md) to take good meeting notes to keep the rest of the CEA aligned.
 
 ## Working Groups
 
@@ -49,8 +49,9 @@ CEA members self-organize into topic-based initiatives, called working groups. I
 | Working Group                   | Status                    | Description |
 | :-------------                  | :-----------              | :---------- |
 | `Ceramic Governance`            | Active                    | See [charter](working-groups/ceramic-governance/charter.md). |
-| `Identity          `            | Active                    | See [charter](working-groups/identity/charter.md). |
-| `Multichain`                    | Active                    | See [charter](working-groups/multichain/charter.md). |
+| `Identity`                      | Active                    | See [charter](working-groups/identity/charter.md). |
+
+Two working groups will kick off soon: Multichain and Data Interoperability. 
 
 ### How to form a new working group
 
@@ -69,34 +70,31 @@ Below, find a list of all members and their organizations.
 | [3Box](http://3box.io)            | Michael Sena ([@michaelsena](http://github.com/michaelsena)), Joel Thorstensson ([@oed](http://github.com/oed)), Daniel Zuckerman ([@dazuck](http://github.com/dazuck)), Janko Simonovic |
 | [Textile](http://textile.io)      | Carson Farmer, Andrew Hill |
 | [IPFS](http://ipfs.io)            | Molly Mackinlay, Juan Benet |
-| [Sia](https://sia.tech/)          | Manasi Vora |
+| [Sia](https://sia.tech/)          | Mansai Vora |
 | [Storj](https://storj.io/)        | Kevin Leffew |
 | [Dappkit](https://www.dappkit.io/) | Vasa |
-| [OrbitDB](https://orbitdb.org/)   | Mark |
+| [OrbitDB](https://orbitdb.org/)   | Mark Henderson [@aphelionz](https://github.com/aphelionz) |
 | [Aragon](http://aragon.org)       | Burrrata, Aaron Foster |
 | [Gitcoin](http://gitcoin.com)     | Kevin Owocki ([@owocki](http://github.com/owocki)) |
 | [MetaMask](http://metamask.io)    | Erik Marks ([@remkarks](http://github.com/rekmarks)), Dan Finlay |
 | [Magic](http://magic.link)        | Sean Li |
 | [Temporal/RTrade](https://temporal.cloud/) | Derrick Foote |
 | [Infura](http://infura.io)        | E.G. Galano |
-| [Anytype](http://anytype.io)      |  |
 | [Colony](http://colony.io)        | Auryn Macmillan |
-| [DuckDuckGo](http://duck.com)     | Tim |
-| [Flow](https://www.onflow.org/)   | Dieter |
+| [Flow](https://www.onflow.org/)   | James |
 | [Arweave](http://arweave.org)     | Jesper, Aidan |
 | [The Graph](http://thegraph.com)  | Yaniv Tal, Brandon Ramirez |
 | [RabbitHole](https://rabbithole.on.fleek.co/#/) | Brian Flynn |
 | [BrightID](http://brightid.org)   | Adam Stallard |
-| [Passbase](http://passbase.com)   | |
-| [Akasha](https://akasha.org/)     | |
+| [Akasha](https://akasha.org/)     | Philip Sheldrake |
 | [Lunie](https://lunie.io/)        | James Moreau |
 | [Rainbow](https://rainbow.me/)    | Mike Demarais, Bruno |
 | [Alchemy](http://alchemyapi.io)   | Nikhil Chari |
 | [MetaCartel](https://www.metacartel.org/) | Peter Pan |
 | [SimpleID](https://www.simpleid.xyz/) | Justin Hunter |
 | [Connext](https://connext.network/) | Arjun Bhuptani |
-| [Consensys](https://consensys.net/) | |
-| [Fleek](https://fleek.co/)        | Brett, Harrison Hines |
+| [Consensys](https://consensys.net/) | Thomas Rush, Mike Kriak
+| [Fleek](https://fleek.co/)        | Brett, Harrison Hines, Janison |
 | [Abridged](https://www.abridged.io/) | James Duncan, James Young |
 | [WalletConnect](https://walletconnect.org/) | Pedro Gomes ([@pedrouid](http://github.com/pedrouid)) |
 | [Gnosis](https://gnosis.io/) | Stefan |
@@ -105,6 +103,9 @@ Below, find a list of all members and their organizations.
 | [Chainlink](https://ost.com/) | Andrew Thurman |
 | [IXO](https://ixo.world) | Shaun Conway |
 | [DAOstack](https://daostack.io/) | Ezra Weller |
+| [Liminal Village](https://liminalvillage.com) | Josh Fairhead |
+| [Beem](http://www.watchbeem.com/) | Cyprien Grau |
+| [Userbase](https://userbase.com/) | Justin Berman |
 
 ### Stewards
 
@@ -114,8 +115,8 @@ Below, find a list of all members and their organizations.
 
 ## Join the CEA
 
-1. Submit a Pull Request to this repository adding yourself to the members table above.
+1. Fill out [this 30 second form](https://danny765911.typeform.com/to/AAFtVN). 
 
-2. Fill out [this form](https://danny765911.typeform.com/to/AAFtVN). 
+2. Submit a Pull Request to this repository adding yourself to the members table above.
 
 Once a steward has confirmed you have completed the previous two steps, they will merge your PR and send you a welcome email containing your invitations to the **CEA Call Calendar** and **Discord**.

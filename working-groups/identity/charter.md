@@ -49,7 +49,6 @@ Work on this library, tentatively named idp2p, is being carreid out by Ceramic c
 
 We will know that this working group has been successful when the above deliverables have been met, and when the process has been derisked/validated through testing. Additionally, members in the working group will be actively implementing these standards. 
 
-
 ## Organization
 
 - **Membership**: Anyone interested in providing constructive feedback, helping spec, or implementing the identity standards as an early user can participate in the working group if they have [joined the CEA](https://github.com/ceramicnetwork/CEA#join-the-cea)
