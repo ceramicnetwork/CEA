@@ -43,7 +43,7 @@ Discussion may also touch on other parts of IDX, which will become a focus in fu
 
 **Implentation of a library that implements the standard**
 
-Work on this library, tentatively named IDp2p, is being carreid out by Ceramic core developers. This working group wil inform that development, provide feedback on early iterations, and help test and implement production versions. 
+Work on this library, tentatively named idp2p, is being carreid out by Ceramic core developers. This working group wil inform that development, provide feedback on early iterations, and help test and implement production versions. 
 
 ## Success
 
