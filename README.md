@@ -50,7 +50,8 @@ CEA members self-organize into topic-based working groups. Individual working gr
 | :-------------                  | :-----------              | :---------- |
 | `Ceramic Governance`            | Active                    | See [charter](working-groups/ceramic-governance/charter.md). |
 | `Identity`                      | Active                    | See [charter](working-groups/identity/charter.md). |
-| `Multichain`                    | Pending                    |  |
+
+Two working groups will kick off soon: Multichain and Data Interoperability. 
 
 ### How to form a new working group
 
