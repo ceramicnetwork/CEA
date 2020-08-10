@@ -106,7 +106,7 @@ Below, find a list of all members and their organizations.
 | [Liminal Village](https://liminalvillage.com) | Josh Fairhead |
 | [Beem](http://www.watchbeem.com/) | Cyprien Grau |
 | [Userbase](https://userbase.com/) | Justin Berman |
-| [The Ether](https://theether.io/) | Derek Sturman |
+| [The Ether](https://theether.io/) | Derek Sturman, Mattison Asher |
 
 ### Stewards
 
