@@ -2,15 +2,18 @@
 
 ---
 working-group: <Working group name>
-date: <YYY-MM-DD>
+date: <YYYY-MM-DD>
 ---
 
 ## Agenda
 
 ## Notes
 
+## Follow Ups
+
 ## Attendees
 
+- First Last (@githubusername) (*chair)
 - First Last (@githubusername) (*notetaker)
 - First Last (@githubusername)
 - First Last (@githubusername)
