@@ -108,6 +108,8 @@ Below, find a list of all members and their organizations.
 | [Userbase](https://userbase.com/) | Justin Berman |
 | [The Ether](https://theether.io/) | Derek Sturman, Mattison Asher |
 | [Keyoxide](https://keyoxide.org/) | Yarmo Mackenbach |
+| [Spruce](https://spruceid.com/) | Gregory Rocco, Wayne Chang |
+| [Aquila Network](http://aquila.network/) | Jubin Jose, Nibin Peter |
 
 ### Stewards
 
