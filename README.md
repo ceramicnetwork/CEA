@@ -112,6 +112,7 @@ Below, find a list of all members and their organizations.
 | [Keyoxide](https://keyoxide.org/) | Yarmo Mackenbach |
 | [Spruce](https://spruceid.com/) | Gregory Rocco, Wayne Chang |
 | [Aquila Network](http://aquila.network/) | Jubin Jose, Nibin Peter |
+| [Open Work Labs](https://www.openworklabs.com/) | Jonathan Schwartz ([@schwartz10](https://github.com/schwartz10)) |
 
 ### Stewards
 
