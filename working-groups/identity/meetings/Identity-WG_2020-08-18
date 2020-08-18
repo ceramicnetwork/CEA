@@ -1,0 +1,34 @@
+```
+working-group: Identity WG
+date: 2020-08-18
+```
+
+## Agenda
+1. Share and discuss existing concepts of decentralized identity to establish a common understanding. We’ll start from the basics and work up:
+    1. [Decentralized identifiers (DIDs)](https://www.w3.org/TR/did-core/) and DID methods
+    2. Verifiable credentials
+    3. [Identity Hubs](https://github.com/decentralized-identity/identity-hub/blob/master/explainer.md)/[Secure Data Stores](https://identity.foundation/secure-data-store/) and existing implementations
+2. Share the Identity work done to date on Ceramic, including goals and design:
+    1. [3ID DID method](https://github.com/ceramicnetwork/CIP/issues/6)
+    2. [Identity Index (IDX)](https://github.com/ceramicnetwork/CIP/issues/3), a proposed way to implement Hub functionality in a decentralized, p2p way on Ceramic
+    3. Auxiliary identity data standards, including [basic profiles](https://github.com/ceramicnetwork/CIP/issues/32), social graphs, etc.
+    4. Verifiable credential doctypes
+3. Break up Identity WG into sub-topics that can be parallelized
+    
+## Goals
+1. Alignment on purpose and motivation of Identity WG on Ceramic
+2. Break up Identity WG into smaller, focused sub-groups
+
+## Notes
+
+## Follow Ups
+
+## Attendees
+
+- First Last (@githubusername) (*chair)
+- First Last (@githubusername) (*notetaker)
+- First Last (@githubusername)
+- First Last (@githubusername)
+- ...
+
+
