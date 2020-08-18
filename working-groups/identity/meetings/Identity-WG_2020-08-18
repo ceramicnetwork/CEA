@@ -7,7 +7,7 @@ date: 2020-08-18
 1. Share and discuss existing concepts of decentralized identity to establish a common understanding. We’ll start from the basics and work up:
     1. [Decentralized identifiers (DIDs)](https://www.w3.org/TR/did-core/) and DID methods
     2. Verifiable credentials
-    3. [Identity Hubs](https://github.com/decentralized-identity/identity-hub/blob/master/explainer.md)/[Secure Data Stores](https://identity.foundation/secure-data-store/) and existing implementations
+    3. [Identity Hubs](https://github.com/decentralized-identity/identity-hub/blob/master/explainer.md) / [Secure Data Stores](https://identity.foundation/secure-data-store/) and existing implementations
 2. Share the Identity work done to date on Ceramic, including goals and design:
     1. [3ID DID method](https://github.com/ceramicnetwork/CIP/issues/6)
     2. [Identity Index (IDX)](https://github.com/ceramicnetwork/CIP/issues/3), a proposed way to implement Hub functionality in a decentralized, p2p way on Ceramic
@@ -25,7 +25,7 @@ date: 2020-08-18
 
 ## Attendees
 
-- First Last (@githubusername) (*chair)
+- Michael Sena (@michaelsena) (*chair)
 - First Last (@githubusername) (*notetaker)
 - First Last (@githubusername)
 - First Last (@githubusername)
