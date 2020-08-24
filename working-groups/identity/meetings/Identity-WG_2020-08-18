@@ -1,0 +1,64 @@
+```
+working-group: Identity WG
+date: 2020-08-18
+```
+
+## Agenda
+1. Share and discuss existing concepts of decentralized identity to establish a common understanding. We’ll start from the basics and work up:
+    1. [Decentralized identifiers (DIDs)](https://www.w3.org/TR/did-core/) and DID methods
+    2. Verifiable credentials
+    3. [Identity Hubs](https://github.com/decentralized-identity/identity-hub/blob/master/explainer.md) / [Secure Data Stores](https://identity.foundation/secure-data-store/) and existing implementations
+2. Share the Identity work done to date on Ceramic, including goals and design:
+    1. [3ID DID method](https://github.com/ceramicnetwork/CIP/issues/6)
+    2. [Identity Index (IDX)](https://github.com/ceramicnetwork/CIP/issues/3), a proposed way to implement Hub functionality in a decentralized, p2p way on Ceramic
+    3. Auxiliary identity data standards, including [basic profiles](https://github.com/ceramicnetwork/CIP/issues/32), social graphs, etc.
+    4. Verifiable credential doctypes
+3. Break up Identity WG into sub-topics that can be parallelized
+    
+## Goals
+1. Alignment on purpose and motivation of Identity WG on Ceramic
+2. Break up Identity WG into smaller, focused sub-groups
+
+## Notes
+- Overview of DIDs
+Started with attaching credentials to a URL + use cases in the crypto world; came together at RWOT 
+- Overview of SDS
+Giving people the ability to store data associated with DIDs in an encrypted way and ensure the data host has no view into the data. 
+Encrypted data vault client -- that's where keys live to access the information. 
+Keep the two layers entirely separate. Developed in work with DHS in supply chain management so folks can store stuff in an encrypted data vault.. 
+That work was being done under the auspices of the W3C credentials community group. Simultaneously, 'hub work' at DIF was that + intelligence about what is in the data collection (movies, friends list, etc.). Generalizing it so people could store the data + the index about it so it would be useful
+Combined the working groups into SDS. First EDV and then align hub vision with that so there's a complete stack.
+Strong push for syncronization and replication are automatically part of it .. 2 service providers in real time (E.g., your own backup somewhere) 
+My data community is important here. "MyData operators" helping people manage there data, 7 different operators. Some of those companies will shift over and adopt these standards. Right now they are in the wild working. At least 2 companies with EDVs based on the specification as it was. 
+Q. is there anything about 1:1 matching (anti-sybil, proof of human) 
+A. there are a bunch of protocols working on global human uniqueness (idema, brightid). It's not a problem IIW is trying to solve 
+side-convo on the approaches of unique-human approaches and dangers
+- How Ceramic fits into this 
+Needs around identity management are shared -- very similar goals. 
+The mechanism of discovery of resources and routing to them -- there was no way to do this in a decentralized way. 
+"Identity management" = provide context and capabilities to a DID
+People in the dweb wanted these capabiilities but a non-starter to rely on a centralized hub to do this 
+Part of what's being done with agent work and DIDCOMM -- pairwise identifiers for every relationship that i have, with other people and entities, and each one has its own channel that i connect to them on...social network itself is radically decentralized because I don't have a persistent identifier for all those relationships 
+When you push more to the edges, you make them do more work, and there is more likely to be centralization vectors 
+How do you ensure those don't get weight..a lot of it is through open standards and ensuring keys live with the users
+"Decentralization rubric" and how to think about the different options and what outcomes they look for 
+
+-What role does Ceramic bring to this that's different? 
+Is it a similar approach to the traditional software identity world, or are we aiming for a very different view? 
+Are we designing for a legal conceptualization or how the world actually works? Personal data or interpersonal data? 
+How can it be edge-centric not node-centric? 
+
+Video: https://youtu.be/Fy2NjnItNRs
+
+## Follow Ups
+
+## Attendees
+
+- Michael Sena (@michaelsena) (*chair)
+- Danny Zuckerman (@dazuck) (*notetaker)
+- Jonathan Schwartz 
+- Graven
+- Kaliya Identity Woman
+- Phillip Sheldrake
+- .. 
+
