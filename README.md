@@ -93,7 +93,7 @@ Below, find a list of all members and their organizations.
 | [MetaCartel](https://www.metacartel.org/) | Peter Pan |
 | [SimpleID](https://www.simpleid.xyz/) | Justin Hunter |
 | [Connext](https://connext.network/) | Arjun Bhuptani |
-| [Consensys](https://consensys.net/) | Thomas Rush, Mike Kriak
+| [Consensys](https://consensys.net/) | Thomas Rush, Mike Kriak, Praneeth Srikanti |
 | [Fleek](https://fleek.co/)        | Brett, Harrison Hines, Janison |
 | [Abridged](https://www.abridged.io/) | James Duncan, James Young |
 | [WalletConnect](https://walletconnect.org/) | Pedro Gomes ([@pedrouid](http://github.com/pedrouid)) |
