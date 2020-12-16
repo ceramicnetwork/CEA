@@ -122,7 +122,7 @@ Below, find a list of all members and their organizations.
 
 ## Join the CEA
 
-1. Fill out [this 30 second form](https://danny765911.typeform.com/to/AAFtVN). 
+1. Fill out [this 30 second form](https://3boxlabs.typeform.com/to/AAFtVN). 
 
 2. Submit a Pull Request to this repository adding yourself to the members table above.
 
