@@ -113,6 +113,7 @@ Below, find a list of all members and their organizations.
 | [Spruce](https://spruceid.com/) | Gregory Rocco, Wayne Chang |
 | [Aquila Network](http://aquila.network/) | Jubin Jose, Nibin Peter |
 | [Open Work Labs](https://www.openworklabs.com/) | Jonathan Schwartz ([@schwartz10](https://github.com/schwartz10)) |
+| [ArcBlock](https://www.ArcBlock.io/) | Robert Mao, Matt McKinney |
 
 ### Stewards
 
